@@ -243,6 +243,5 @@ export const certifications = [
 ];
 
 export const education = [
-  "Product Management Masterclass - UK, 2023",
-  "B.Sc. Computer Science - University of Calabar, 2012",
+  "B.Sc. Computer Science - University of Calabar, 2012"
 ];

@@ -33,7 +33,7 @@
   --ease: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-/* Light theme — toggled via data-theme="light" on <html> */
+/* Light theme - toggled via data-theme="light" on <html> */
 [data-theme="light"] {
   --bg: #f6f6f4;
   --bg-elevated: #ffffff;
